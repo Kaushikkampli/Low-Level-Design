@@ -1,0 +1,7 @@
+Entities:
+
+Game
+Board
+Snakes & Ladders
+Dice
+Players
